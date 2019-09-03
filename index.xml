@@ -2,13 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>享读</title>
-    <link>https://enjoyread.club/</link>
+    <link>http://www.flysnow.org/</link>
     <description>Recent content on 享读</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-cn</language>
+    <language>zh-CN</language>
     
-	<atom:link href="https://enjoyread.club/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.flysnow.org/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>享读成员列表</title>
+      <link>http://www.flysnow.org/members/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.flysnow.org/members/</guid>
+      <description> 阿飞
+ 阿桔
+ 聂琴
+ 秋水
+ 帅帅
+ 王伟
+ 杨少侠
+ 周学琴
+  </description>
+    </item>
+    
+    <item>
+      <title>关于</title>
+      <link>http://www.flysnow.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.flysnow.org/about/</guid>
+      <description>主题:线上共读
+时间:2019年9月2日— 9月8日
+组长：翟兆帅
+书名:乌合之众
+目的:建立阅读习惯；有效建立输出能力
+流程: ✨参与人员在规定时间读完本书并按时输出读书笔记
+✨周六9月7日晚上12:00之前交500字读后感，输出工具待定
+✨周日9月8日晚21:00—21:45左右，线上语音沟通收获
+规则: 大家平日自行安排时间阅读，在以上规定的时间完成看书内容和输出读书笔记，没有完成的小伙伴请写500字以上的忏悔书发到群内，接受大家的监督.
+组长每期轮流值班，需通知大家每期共读书目和输出笔记时间，还有线上交流时间提前确定通知</description>
+    </item>
+    
+    <item>
+      <title>归档</title>
+      <link>http://www.flysnow.org/archives/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.flysnow.org/archives/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

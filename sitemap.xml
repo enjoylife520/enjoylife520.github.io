@@ -3,23 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://enjoyread.club/archives/</loc>
+    <loc>http://www.flysnow.org/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://enjoyread.club/categories/</loc>
+    <loc>http://www.flysnow.org/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://enjoyread.club/tags/</loc>
+    <loc>http://www.flysnow.org/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://enjoyread.club/</loc>
-    <priority>0</priority>
+    <loc>http://www.flysnow.org/members/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.flysnow.org/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.flysnow.org/archives/</loc>
   </url>
   
 </urlset>
