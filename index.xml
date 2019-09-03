@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>享读</title>
-    <link>http://www.flysnow.org/</link>
+    <link>http://www.enjoyread.club/</link>
     <description>Recent content on 享读</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
-	<atom:link href="http://www.flysnow.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://www.enjoyread.club/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>享读成员列表</title>
-      <link>http://www.flysnow.org/members/</link>
+      <link>http://www.enjoyread.club/members/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.flysnow.org/members/</guid>
+      <guid>http://www.enjoyread.club/members/</guid>
       <description> 阿飞
  阿桔
  聂琴
@@ -29,10 +29,10 @@
     
     <item>
       <title>关于</title>
-      <link>http://www.flysnow.org/about/</link>
+      <link>http://www.enjoyread.club/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.flysnow.org/about/</guid>
+      <guid>http://www.enjoyread.club/about/</guid>
       <description>主题:线上共读
 时间:2019年9月2日— 9月8日
 组长：翟兆帅
@@ -47,10 +47,10 @@
     
     <item>
       <title>归档</title>
-      <link>http://www.flysnow.org/archives/</link>
+      <link>http://www.enjoyread.club/archives/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://www.flysnow.org/archives/</guid>
+      <guid>http://www.enjoyread.club/archives/</guid>
       <description></description>
     </item>
     
