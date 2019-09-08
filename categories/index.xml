@@ -5,10 +5,20 @@
     <link>http://www.enjoyread.club/categories/</link>
     <description>Recent content in Categories on 享读</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 09 Sep 2019 06:28:16 +0800</lastBuildDate>
     
 	<atom:link href="http://www.enjoyread.club/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>读后感</title>
+      <link>http://www.enjoyread.club/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/</link>
+      <pubDate>Mon, 09 Sep 2019 06:28:16 +0800</pubDate>
+      
+      <guid>http://www.enjoyread.club/categories/%E8%AF%BB%E5%90%8E%E6%84%9F/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

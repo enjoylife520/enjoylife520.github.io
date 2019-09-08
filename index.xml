@@ -5,15 +5,32 @@
     <link>http://www.enjoyread.club/</link>
     <description>Recent content on 享读</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>zh-CN</language>
+    <language>zh-cn</language>
+    <lastBuildDate>Mon, 09 Sep 2019 06:28:16 +0800</lastBuildDate>
     
 	<atom:link href="http://www.enjoyread.club/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>享读小分队《乌合之众》读后感</title>
+      <link>http://www.enjoyread.club/post/read-001/</link>
+      <pubDate>Mon, 09 Sep 2019 06:28:16 +0800</pubDate>
+      
+      <guid>http://www.enjoyread.club/post/read-001/</guid>
+      <description>&lt;h2 id=&#34;前言&#34;&gt;前言&lt;/h2&gt;
+
+&lt;h4 id=&#34;第一期&#34;&gt;第一期&lt;/h4&gt;
+
+&lt;p&gt;书名:乌合之众
+时间:2019年9月2日— 9月8日
+组长:翟兆帅
+目的:建立阅读习惯；有效建立输出能力&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>享读成员列表</title>
       <link>http://www.enjoyread.club/members/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 21:00:00 +0800</pubDate>
       
       <guid>http://www.enjoyread.club/members/</guid>
       <description> 阿飞
@@ -30,7 +47,7 @@
     <item>
       <title>关于</title>
       <link>http://www.enjoyread.club/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 21:00:00 +0800</pubDate>
       
       <guid>http://www.enjoyread.club/about/</guid>
       <description>主题:线上共读
@@ -48,7 +65,7 @@
     <item>
       <title>归档</title>
       <link>http://www.enjoyread.club/archives/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2019 21:00:00 +0800</pubDate>
       
       <guid>http://www.enjoyread.club/archives/</guid>
       <description></description>
